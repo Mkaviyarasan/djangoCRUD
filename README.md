@@ -14,7 +14,7 @@ pip install django-crispy-forms
 #mysql
 database create
 open my.cnf file
-add to database name & password & user change
+change to database name & password & user.
 
 #run the file
 cd kavi
